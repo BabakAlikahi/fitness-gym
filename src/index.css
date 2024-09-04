@@ -8,5 +8,6 @@ html,
 body,
 #root {
   font-family: "DM Sans", sans-serif;
+  text-transform: capitalize;
   @apply text-gray-500;
 }

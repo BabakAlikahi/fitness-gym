@@ -1,7 +1,9 @@
+import Navbar from "./components/Navbar/Navbar";
+
 function App() {
   return (
     <div className="px-14">
-      <h1>Vite + React</h1>
+      <Navbar />
     </div>
   );
 }
